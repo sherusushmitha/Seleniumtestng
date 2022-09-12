@@ -3,7 +3,7 @@ Feature: Elearning login page
 Background: Backgroung section
 Given User is on homepage
 
-  #Scenario: Login with unauthorized user
+    #Scenario: Login with unauthorized user
     #Given User is on homepage
     #When user enter invalid credentials
     #And user click on submit button
